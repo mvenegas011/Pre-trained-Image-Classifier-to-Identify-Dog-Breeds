@@ -28,9 +28,3 @@ UDACITY PROJECT: Pre-trained Image Classifier to Identify Dog Breeds
 - Criteria	Submission Requirements
 - Matches between Classifier and Pet Image Labels have both labels classified as "dogs" or "not dogs" as appropriate for the labels.: Check the displayed output and see if all matches are appropriately displayed.
 - Non-matches between Classifier and Pet Image Labels correctly classify each label as "dogs" or "not dogs": Check the displayed output and see if all non matches are appropriately displayed
-
-Results
-- Criteria	Submission Requirements
-- Accurate overall scores for three models by running run_models_batch.sh after writing all the code.
-
-All three models score as expected.
